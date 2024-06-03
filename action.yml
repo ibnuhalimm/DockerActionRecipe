@@ -1,5 +1,8 @@
-name: 'Docker Action Recipe'
+name: 'Action using Docker Starter'
 description: 'Greet someone'
+branding:
+  icon: bell
+  color: purple
 inputs:
   who-to-greet:
     description: 'Who to greet'
